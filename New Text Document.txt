@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Aju Pradhan\Desktop\all_together_project\gui_for_lung_cancer.py"
